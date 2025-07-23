@@ -1,2 +1,2 @@
-# web
+# MyWebsite
 WebDev repo
